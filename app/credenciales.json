@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "colfenix-app",
+  "private_key_id": "9266fe6ab682a73257598291e58a08c944c2be8b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDF47lsAqWAcxhj\n29eL94GzrJ+RxJe/lfHgp/hjmlpXr3wzIKQYljEBi4YVpQmd0QOc07tQDuk/Zp8b\npueCBOwswmzQcDT0mpDuobyHyOLd/PXQT4BcdYPVHAkcEO8MjlxOc/iAp0jYQndb\nG6QkhmxOpXEmoQF8j23+k+fTweWYGxJHp3ZTJiKZo4uplUCANENpe2cF/zhlXnnu\nW9naHZDZk5K/VvtDeGpkqSe7LPIyG1WjRrrUu+QLSIsNJVSGjcS5wl/SH55nmviP\nIiLCkcf0D4ZtnIDOb7dNkniNSLgdvMucenxJTZdmzVWryasmS1G+IauRHHGRInNl\nmAFKSHdrAgMBAAECggEABIIw20yNR5vp+uorVU/klAiH81CKL/mKBTu8LrsL1QcH\npfKOuEL4UJONx6Ytzej1wUDz+dnT+gnQgsTFkqlY6Cne+xVTX4q6jOMBUAs8NthD\n/y3Zqa9Tu0/R7Ct9dH/Hi7/AqRbdeEtP8o5OF6SoZDJR5skelLGkcZ/VDFILvjms\nMpaS8C9hp0fsmL3bukaxOY0YtRUkh3/tiyrwR0EUO1lor5R6i3nMgOLAJb+IGkh+\nzX7CDZmylFh+rqkkFGkv8fZu/Pcfu3SzBlVLxLoodtv51Svl/xq8oBxl4FslK29+\n4Yp+/w22ARaHDF1tSWIsyXEhHtZFLFFK7Vsl4Uzr4QKBgQD95VG0w2DuGXwKXB2c\nODxFzopsxluQTe82C8OPwCo5nWUms+OJnZ9zw0wK3XKMJ5UZPDlH+gsYviFjr/gO\n1qlwMHJ8GZvgLuvOiuX5IzRMrj9RhSjo7f2CU3kTolNWavSdFoI6b6PqXD3rFPiR\n42kpO+XLB2w9f7HjXmG+9xspZwKBgQDHh5QyPvAYaoaoFUzxjsd7dQUqE7mFl+Uk\nZTTYX0cYwPIQwvK8mp6sfs9EwMiUwaD98n4YdoIg+F7Fu6bgBTQ2zP6bIPtxXHfG\n1tGy7QUzYg047JA+5LqngeiOuG0Jkj1AqpItNNnkgNGfMaDoSI9kVk7WD4Yr+4+m\nsgM/s2ULXQKBgQDoHptQc79ObyYkIos/o3oXJ/kN8VsM1vN3qdGkvr7b5bXwaE4C\nJoT8xPPkiwiKcjWx2IlV8JfsiwbjqKFUj5Rg6SoBozgLAVq8feg6maDa6gMheGgq\nbEp0t/Pdq24dd7MjWsy8uAxX2vUQ0x9d4VbnR8eSkrq2juQHRuZ+PFQsyQKBgGhE\nIh4ro32u1RUqpF2qlfWezgcR7aWxHW3qcTYMe/OkiBpYNU53oilTzu4HrAmIMZ/i\nwx/3dcLS53t+txJjxchJUVcxYhP4FSNUCJrunwQd3fj8Ldif4CY+jY9fMqOIxvdu\n6xoyfxaYdnIxFfusRzpQm7viuuNq/sNGTMpR7aCFAoGBAP1pgdqQty4Gh4Ih+0AU\nWKorAAyQ1g6pzOq9+MnzYKLGfJRAEGJvrDHBAekezogKRCC0V44orECIqVN+dNcu\nTZOzVT8/ZawVZdFsytDz2S46r5MS4EgR98Np4UlsNKGUBYRG91KhAla5+qxD3xFr\ncMhKXxjva48SDQUlJdLAci2q\n-----END PRIVATE KEY-----\n",
+  "client_email": "colfenixapp@colfenix-app.iam.gserviceaccount.com",
+  "client_id": "116242760049270176455",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/colfenixapp%40colfenix-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
